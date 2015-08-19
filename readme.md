@@ -5,7 +5,8 @@ to wave files. LSUs are used largely by microcontrollers (especially
 lightsabers) and are raw 16 bit, mono, 44100Hz data. This utility 
 adds the WAV wrapper and writes a new file.
 
-## NOTE
+## Notes
+
 If you get an error about a missing DLL, you probably need the
 Microsoft Redistributables. You can download and install here:
 
@@ -21,6 +22,7 @@ Click on the "releases" tab in github, and download 'lsuToWave.exe'.
 It's an excutable, not an installer.
 
 ## Using
+
 ### The easy way
 Place the .exe file in the directory with your LSU files. Double
 click to run it. WAV files will be generated.
