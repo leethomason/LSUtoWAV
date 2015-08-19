@@ -5,6 +5,8 @@ to wave files. LSUs are used largely by microcontrollers (especially
 lightsabers) and are raw 16 bit, mono, 44100Hz data. This utility 
 adds the WAV wrapper and writes a new file.
 
+Source and Executable are provided on github.
+
 ## Notes
 
 If you get an error about a missing DLL, you probably need the
